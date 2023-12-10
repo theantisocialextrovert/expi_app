@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/expi_app/static/css/main.8f6195f8.css",
+    "main.js": "/expi_app/static/js/main.1f6971bc.js",
+    "static/js/787.7c43948a.chunk.js": "/expi_app/static/js/787.7c43948a.chunk.js",
+    "static/media/pic.png": "/expi_app/static/media/pic.4bc4becff74534dc5979.png",
+    "index.html": "/expi_app/index.html",
+    "main.8f6195f8.css.map": "/expi_app/static/css/main.8f6195f8.css.map",
+    "main.1f6971bc.js.map": "/expi_app/static/js/main.1f6971bc.js.map",
+    "787.7c43948a.chunk.js.map": "/expi_app/static/js/787.7c43948a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f6195f8.css",
+    "static/js/main.1f6971bc.js"
+  ]
+}
